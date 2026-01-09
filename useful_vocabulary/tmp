@@ -1,0 +1,7 @@
+Retrieving cloud-init generated host keys vs ssh-keyscan in Ansible
+
+This is NOT TOFU
+
+This is out-of-band trust establishment.
+
+Q: Tofu vs out-of-band trust establishment.
